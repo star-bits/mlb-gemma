@@ -20,8 +20,11 @@
 - lora ft
   - https://www.datacamp.com/tutorial/fine-tuning-gemma-2
   - https://www.philschmid.de/fine-tune-google-gemma
+  - https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/gemma-lora-example.ipynb
   - https://github.com/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning/blob/main/Gemma_FineTuning.ipynb
-  - 
+  - https://github.com/104-wonohfor/Finetune_LLM_Gemma-2b-it/blob/main/Finetune_LLM_Gemma_2b_it.ipynb
+  - https://github.com/qianniu95/gemma2_2b_finetune_jp_tutorial/blob/main/Gemma2_2b_Japanese_finetuning_colab.ipynb
+  - https://github.com/russellgeum/LLM-Finetuning-Tutorial
 - run on ollama
   - 모델을 gguf로 변환하고 quantize 해서 https://medium.com/@qdrddr/the-easiest-way-to-convert-a-model-to-gguf-and-quantize-91016e97c987
   - bin 파일과 modelfile을 만들고
